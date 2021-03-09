@@ -327,8 +327,3 @@ Cutting-edge research is producing fast, scalable frameworks in Python
 - <sub><sup>"Experiences in Developing a Distributed Agent-based Modeling Toolkit with Python," N. T. Collier, J. Ozik and E. R. Tatara, 2020, doi: 10.1109/PyHPC51966.2020.00006
 - <sub><sup>Python in the NERSC Exascale Science Applications Program for Data: https://dl.acm.org/citation.cfm?id=3149873
 
----
-
-# Thank you
-
-Thanks for listening!
